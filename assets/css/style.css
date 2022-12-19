@@ -1,0 +1,39 @@
+/* Font-Family
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+*/
+
+h1{
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: grey;
+    color: white;
+    text-shadow: 5px 5px #000 ;
+}
+
+nav p {
+    text-indent: 10%;
+    word-spacing: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main p {
+    text-indent: 20%;
+    word-spacing: 1px;
+}
+
+h2 {
+    text-shadow: 2px 2px grey;
+    letter-spacing: 30px;
+}
+
+section p {
+    background: lightgray;
+    line-height: 10px;
+}
+
+aside p {
+    color: white;
+    background: darkgray;
+    line-height: 20px;
+}
